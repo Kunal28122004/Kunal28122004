@@ -1,13 +1,9 @@
 <!-- README.md -->
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Check+out+my+projects+below!;Happy+Coding+🚀" />
-</p>
 <h1 align="center">Hey there, I'm Kunal Chauhan 👨‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Play+and+Code+Together!;Check+out+my+projects+below!" />
 </p>
+----
 <h3 align="center">Web Wizard 🧙 | Hackathon Warrior ⚔️ | Creative Technologist 💡</h3>
 
 <p align="center">
