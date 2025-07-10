@@ -1,17 +1,18 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 Hey there, I'm Unal Chauhan 🚀</h1>
-<h3 align="center">Web wizard 🧙 | Hackathon warrior ⚔️ | Future-ready developer 💻</h3>
+<h1 align="center">🚀 Hey there, I'm Unal Chauhan</h1>
+<h3 align="center">Web Wizard 🧙 | Hackathon Warrior ⚔️ | Future-Ready Developer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Blending+code,+logic,+and+a+spark+of+rebellion.;Hackathon+Warrior+%F0%9F%A4%96;Designing+experiences+with+Flutter,+React,+and+Figma." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=👨‍💻+Blending+code,+logic+and+a+spark+of+rebellion;⚔️+Hackathon+Warrior+%7C+UI+Craftsman;🚀+Building+with+Flutter,+React+and+Python" alt="Typing animation" />
 </p>
+
 
 ---
 
 ### 🧠 About Me
 
-🎯 **Unal Chauhan** — a boundary-pushing developer and creative technologist. I love to build things that look good *and* work better.
+🎯 **Kunal Chauhan** — a boundary-pushing developer and creative technologist. I love to build things that look good *and* work better.
 
 I mix **frontend finesse**, **database depth**, and a healthy dose of visual flair to deliver unique, impactful digital experiences. Whether it’s hackathons, design tools, or full-stack magic — I’m all in.
 
@@ -61,14 +62,6 @@ Built with Streamlit for real-time interactive data viz.
 #### 🔹 [Tech Heist: Break the Code](#)
 Gamified website with authentication, missions, and live scoring.  
 `JavaScript` • `HTML` • `CSS`
-
----
-
-> _“Real projects speak louder than words.”_
-
----
-
-[![Unal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unalchauhan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
