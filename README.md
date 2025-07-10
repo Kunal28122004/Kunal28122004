@@ -1,27 +1,13 @@
 <!-- README.md -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Play+and+Code+Together!;Check+out+my+projects+below!" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Check+out+my+projects+below!;Happy+Coding+🚀" />
 </p>
 <h1 align="center">Hey there, I'm Kunal Chauhan 👨‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Play+and+Code+Together!;Check+out+my+projects+below!" />
+</p>
 <h3 align="center">Web Wizard 🧙 | Hackathon Warrior ⚔️ | Creative Technologist 💡</h3>
 
 <p align="center">
@@ -95,7 +81,6 @@ Gamified website with authentication, missions, and live scoring.
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 </p>
