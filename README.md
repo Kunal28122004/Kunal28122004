@@ -64,27 +64,9 @@ Gamified website with authentication, missions, and live scoring.
 
 ---
 
-### 🌟 Testimonials
-
-> “Visible testimonial 1...”  
-> — Kunal  
->
-> “Visible testimonial 2...”  
-> — Kunal  
->
-> “Visible testimonial 3...”  
-> — Kunal Chauhan  
-
 > _“Real projects speak louder than words.”_
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unalchauhan&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unalchauhan&theme=radical&hide_border=true" />
-</p>
 
 [![Unal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unalchauhan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -93,9 +75,9 @@ Gamified website with authentication, missions, and live scoring.
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/unalchauhan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="(https://www.linkedin.com/in/kunal_chauhan2812)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="kunalchauhan2804@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Kunal28122004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
