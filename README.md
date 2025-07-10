@@ -1,10 +1,14 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 Hey there, I'm Unal Chauhan</h1>
-<h3 align="center">Web Wizard 🧙 | Hackathon Warrior ⚔️ | Future-Ready Developer 💻</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
+
+<h1 align="center">Hey there, I'm Unal Chauhan 👨‍💻</h1>
+<h3 align="center">Web Wizard 🧙 | Hackathon Warrior ⚔️ | Creative Technologist 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=👨‍💻+Blending+code,+logic+and+a+spark+of+rebellion;⚔️+Hackathon+Warrior+%7C+UI+Craftsman;🚀+Building+with+Flutter,+React+and+Python" alt="Typing animation" />
+  <img src="https://github.com/yourusername/yourusername/assets/yourbanner.gif" alt="Unal's Animated Banner" width="100%" />
 </p>
 
 
