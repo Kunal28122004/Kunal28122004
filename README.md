@@ -27,10 +27,10 @@
 I am **Kunal Chauhan**, a developer & creative technologist passionate about building projects that *look stunning* and *work seamlessly*.  
 
 ✨ **What defines me**:  
-- 🎨 UI/UX enthusiast — I believe design is as important as code  
-- ⚡ Hackathon junkie — I thrive under deadlines and real-world problem solving  
-- 🔧 Full-stack learner — from **React** to **MySQL**, I mix creativity with engineering  
-- 🚀 Community-driven — I organize & participate in events, sharing knowledge & energy  
+- 🎨 UI/UX enthusiast :- I believe design is as important as code  
+- ⚡ Hackathon junkie :- I thrive under deadlines and real-world problem solving  
+- 🔧 Full-stack learner :-  from **React** to **MySQL**, I mix creativity with engineering  
+- 🚀 Community-driven :- I organize & participate in events, sharing knowledge & energy  
 
 📥 [**Download My Resume**](#) <!-- Add your resume link -->
 
